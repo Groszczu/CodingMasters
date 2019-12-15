@@ -1,0 +1,3 @@
+C:/Users/rochg/dev/C++/CodingMasters/cmake-build-debug/CMakeFiles/CodingMasters.dir
+C:/Users/rochg/dev/C++/CodingMasters/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rochg/dev/C++/CodingMasters/cmake-build-debug/CMakeFiles/rebuild_cache.dir

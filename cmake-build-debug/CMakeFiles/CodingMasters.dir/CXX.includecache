@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rochg/dev/C++/CodingMasters/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+numeric
+-
+unordered_map
+-
+chrono
+-
+
