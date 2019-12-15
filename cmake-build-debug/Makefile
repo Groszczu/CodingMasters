@@ -122,6 +122,60 @@ CodingMasters/fast:
 	$(MAKE) -f CMakeFiles\CodingMasters.dir\build.make CMakeFiles/CodingMasters.dir/build
 .PHONY : CodingMasters/fast
 
+Board.obj: Board.cpp.obj
+
+.PHONY : Board.obj
+
+# target to build an object file
+Board.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodingMasters.dir\build.make CMakeFiles/CodingMasters.dir/Board.cpp.obj
+.PHONY : Board.cpp.obj
+
+Board.i: Board.cpp.i
+
+.PHONY : Board.i
+
+# target to preprocess a source file
+Board.cpp.i:
+	$(MAKE) -f CMakeFiles\CodingMasters.dir\build.make CMakeFiles/CodingMasters.dir/Board.cpp.i
+.PHONY : Board.cpp.i
+
+Board.s: Board.cpp.s
+
+.PHONY : Board.s
+
+# target to generate assembly for a file
+Board.cpp.s:
+	$(MAKE) -f CMakeFiles\CodingMasters.dir\build.make CMakeFiles/CodingMasters.dir/Board.cpp.s
+.PHONY : Board.cpp.s
+
+MovesMap.obj: MovesMap.cpp.obj
+
+.PHONY : MovesMap.obj
+
+# target to build an object file
+MovesMap.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodingMasters.dir\build.make CMakeFiles/CodingMasters.dir/MovesMap.cpp.obj
+.PHONY : MovesMap.cpp.obj
+
+MovesMap.i: MovesMap.cpp.i
+
+.PHONY : MovesMap.i
+
+# target to preprocess a source file
+MovesMap.cpp.i:
+	$(MAKE) -f CMakeFiles\CodingMasters.dir\build.make CMakeFiles/CodingMasters.dir/MovesMap.cpp.i
+.PHONY : MovesMap.cpp.i
+
+MovesMap.s: MovesMap.cpp.s
+
+.PHONY : MovesMap.s
+
+# target to generate assembly for a file
+MovesMap.cpp.s:
+	$(MAKE) -f CMakeFiles\CodingMasters.dir\build.make CMakeFiles/CodingMasters.dir/MovesMap.cpp.s
+.PHONY : MovesMap.cpp.s
+
 UniqueSequencesCounter.obj: UniqueSequencesCounter.cpp.obj
 
 .PHONY : UniqueSequencesCounter.obj
@@ -185,6 +239,12 @@ help:
 	@echo ... CodingMasters
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Board.obj
+	@echo ... Board.i
+	@echo ... Board.s
+	@echo ... MovesMap.obj
+	@echo ... MovesMap.i
+	@echo ... MovesMap.s
 	@echo ... UniqueSequencesCounter.obj
 	@echo ... UniqueSequencesCounter.i
 	@echo ... UniqueSequencesCounter.s

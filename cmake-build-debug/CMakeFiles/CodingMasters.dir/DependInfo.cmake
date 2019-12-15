@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/rochg/dev/C++/CodingMasters/Board.cpp" "C:/Users/rochg/dev/C++/CodingMasters/cmake-build-debug/CMakeFiles/CodingMasters.dir/Board.cpp.obj"
+  "C:/Users/rochg/dev/C++/CodingMasters/MovesMap.cpp" "C:/Users/rochg/dev/C++/CodingMasters/cmake-build-debug/CMakeFiles/CodingMasters.dir/MovesMap.cpp.obj"
   "C:/Users/rochg/dev/C++/CodingMasters/UniqueSequencesCounter.cpp" "C:/Users/rochg/dev/C++/CodingMasters/cmake-build-debug/CMakeFiles/CodingMasters.dir/UniqueSequencesCounter.cpp.obj"
   "C:/Users/rochg/dev/C++/CodingMasters/main.cpp" "C:/Users/rochg/dev/C++/CodingMasters/cmake-build-debug/CMakeFiles/CodingMasters.dir/main.cpp.obj"
   )

@@ -80,7 +80,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/rochg/dev/C++/CodingMasters/Board.cpp">
+			<Option target="CodingMasters"/>
+		</Unit>
+		<Unit filename="C:/Users/rochg/dev/C++/CodingMasters/Board.hpp">
+			<Option target="CodingMasters"/>
+		</Unit>
+		<Unit filename="C:/Users/rochg/dev/C++/CodingMasters/MovesMap.cpp">
+			<Option target="CodingMasters"/>
+		</Unit>
+		<Unit filename="C:/Users/rochg/dev/C++/CodingMasters/MovesMap.hpp">
+			<Option target="CodingMasters"/>
+		</Unit>
 		<Unit filename="C:/Users/rochg/dev/C++/CodingMasters/Position.hpp">
+			<Option target="CodingMasters"/>
+		</Unit>
+		<Unit filename="C:/Users/rochg/dev/C++/CodingMasters/PositionHash.hpp">
+			<Option target="CodingMasters"/>
+		</Unit>
+		<Unit filename="C:/Users/rochg/dev/C++/CodingMasters/TupleHash.hpp">
 			<Option target="CodingMasters"/>
 		</Unit>
 		<Unit filename="C:/Users/rochg/dev/C++/CodingMasters/UniqueSequencesCounter.cpp">

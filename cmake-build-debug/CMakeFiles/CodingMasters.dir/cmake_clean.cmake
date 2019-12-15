@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/CodingMasters.dir/Board.cpp.obj"
+  "CMakeFiles/CodingMasters.dir/MovesMap.cpp.obj"
   "CMakeFiles/CodingMasters.dir/UniqueSequencesCounter.cpp.obj"
   "CMakeFiles/CodingMasters.dir/main.cpp.obj"
   "CodingMasters.exe"
